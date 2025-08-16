@@ -1,0 +1,35 @@
+Python Fundmentals
+
+1. Datatypes
+	- Numbers
+	- Strings
+	- Lists
+	- Dictionaries
+
+2. Flow Control
+	- if Else
+	- For
+	- While
+	- Continue
+
+3. Functions
+	- Definition
+	- Function call
+	- Docstring
+	- Return
+
+4. File Handling
+	- Reading
+	- Writing
+	- Editing
+
+5. Core Libraries
+	- Pandas
+	- Numpy
+	- Requests
+	- Etc.
+
+
+Resource:
+1. Automate the boring stuff
+2. 
